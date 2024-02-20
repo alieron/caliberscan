@@ -1,4 +1,4 @@
-# calscan
+# caliberscan
 
 A tool that leverages OpenCV and OCR to scan any watch movement manual to get a detailed breakdown of its individual components and part numbers.
 
@@ -13,5 +13,3 @@ To explore:
 | Part no. | Description | Image |
 | -------- | ----------- | ----- |
 | 625.1000 | Plate       | ![](img/625.1000.png)|
-
-![Alt text](image.png)
